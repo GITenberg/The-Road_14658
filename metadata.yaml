@@ -1,0 +1,36 @@
+_repo: The-Road_14658
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_issued: '2005-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14658'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prisoners -- United States -- Biography'
+- !lcsh 'Tramps -- United States -- Biography'
+- !lcsh 'Authors, American -- 20th century -- Biography'
+- !lcsh 'London, Jack, 1876-1916 -- Travel -- United States'
+- !lcc 'PS'
+- !lcsh 'Railroad travel -- United States'
+- !lcsh 'Vagrancy -- United States'
+tableOfContents: Confession -- Holding her down -- Pictures -- "Pinched" -- The pen
+  -- Hoboes that pass in the night -- Road-kids and gay-cats -- Two thousand stiffs
+  -- Bulls.
+title: The Road
+url: http://www.gutenberg.org/ebooks/14658
